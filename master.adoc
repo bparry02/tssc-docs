@@ -1,0 +1,9 @@
+include::attributes.adoc[]
+
+= Documenation for Trusted Software Supply Chain (TSSC)
+:context: {ProjectNameID}
+
+include::mvp.adoc[leveloffset=+1]
+
+[appendix]
+include::docs/modules/tssc-terms-definitions.adoc[leveloffset=+1]
